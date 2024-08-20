@@ -23,7 +23,11 @@
     border: 1px solid #dfe1e5;
     border-radius: 24px;
 }
-
+.btn{
+    display: block;
+    margin: auto;
+    margin-top: 20px; 
+}
 /*
 Challenge:
 Center the button and add some space above it
