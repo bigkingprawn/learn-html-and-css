@@ -17,3 +17,6 @@ Challenge:
 Create a utility class for the dotted blue border.
 Give the class to both flexbox children in the HTML.
 */
+.dottedBlueBorder{
+    border: 5px dotted blue;
+}
